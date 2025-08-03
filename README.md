@@ -1,111 +1,37 @@
-![Blockchain Developer](https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif)
+### Hi there 👋, Welcome!
 
----
 
-# 👨‍💻 Kamran Ali — Blockchain Developer | Trading Bots Engineer | AI Automation Expert
+Hello! 👋🏻 I'm Kamran Ali
+A Software Engineer & Blockchain Developer from Pakistan 🇵🇰
+I build AI bots, crypto wallets, and scalable web apps using Python, React, and Web3.
 
-🚀 Passionate about building powerful, scalable, and intelligent trading tools, blockchain systems, and automation workflows. With a strong command over Python, MQL5, IBKR, and Web3 technologies, I bring ideas to life through code.
+I’m deeply passionate about backend systems, AI bots, and blockchain development ⚙️💻.
+Currently exploring React.js, Web3, and automated trading systems 📈🤖.
 
----
+Currently building AI-powered trading bots, working on blockchain wallet apps, and collaborating on Web3 + automation projects with global devs 🤝🌐.
 
-## 💼 Featured Projects
+I love building in public, joining dev communities, and competing in hackathons that create real-world impact 💡🚀.
 
-### ⚡ Kamran Crypto Wallet (React + Web3 + AI)
+**Skills:**  
+AI Automation | Blockchain & Web3 Development | Bot & Trading System Engineering
 
-A professional, sleek multi-coin wallet (BTC, BNB, ETH) with built-in AI features inspired by OKX Wallet. Built using React, Tailwind, Solana SPL integration, and ChatGPT APIs.
+**Tools:**   
+[<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/1200px-Visual_Studio_Code_1.18_icon.svg.png' alt='vscode' height='40'>](https://github.com/nikxherrera)  [<img src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png' alt='html' height='40'>](https://www.linkedin.com/in/nikxherrera/)  [<img src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png' alt='css' height='40'>](https://www.instagram.com/nikxherrera/)  [<img src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png' alt='reactjs' height='40'>](https://twitter.com/nikxherrera)  [<img src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png' alt='js' height='40'>](nikxherrera.github.io)  [<img src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png' alt='git' height='40'>](https://github.com/nikxherrera) [<img src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png' alt='mysql' height='40'>](https://www.instagram.com/nikxherrera/)  [<img src='https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png' alt='github' height='40'>](https://twitter.com/nikxherrera) 
 
-![Crypto Wallet GIF](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/1d82e4123878599.60f0c5884f6d9.gif)
 
-* 🔐 Phantom Wallet integration
-* 📊 AI-powered balance assistant
-* 🌐 Token creation (SPL-based)
-* 💎 Clean modern UI
 
----
+- 🔭 Currently working on AI-powered Telegram trading bots and blockchain wallet projects
 
-### 🤖 IBKR Auto Trading Bot (CLI/Telegram + Flask + IB API)
+- 🌱 Learning more about Solana, Phantom Wallet SDK, and smart contract automation
 
-A fully-automated professional trading assistant with step-by-step trade inputs, confirmation, and real order placement using Interactive Brokers.
+- 📫 Reach me at: kamranalideveloper@gmail.com
 
-![Trading Bot GIF](https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif)
+- 😎 Pronouns: He/Him
 
-* ✅ Telegram step-by-step order flow (symbol, amount, SL, TP)
-* 🔁 Reconnect handling
-* 📦 Supports Futures, Stocks, and DCA
-* 💬 Confirmation before execution
+- ⚡ Fun fact: My bots don't sleep — they trade 24/7 😄
 
----
-
-### 📈 MQL5 Expert Advisor for MetaTrader
-
-Custom-built expert advisors for automated forex/crypto strategies using MQL5 with advanced indicators, filters, and signal logic.
-
-![MQL5 GIF](https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif)
-
-* 🧠 Strategy logic in MQL5
-* 🔄 TP, SL, DCA logic
-* 📈 Signal-based triggers
-* 📩 TradingView Webhook Integration
-
----
-
-### 🌐 Blockchain Token Creator UI (Solana + Phantom Wallet)
-
-Build your own token with just one click! A modern frontend app for minting SPL tokens on Solana.
-
-![Token Minting GIF](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)
-
-* 🪙 SPL Token generator
-* 🔑 Phantom Wallet integration
-* ⚙️ Web3.js and Solana integration
-
----
-
-### 🔍 AI Stock Analyzer (OpenAI + Finnhub)
-
-A Telegram-based AI bot that uses GPT to analyze any stock, show live price, trend, volume, and provide buy/sell suggestions.
-
-![AI Stock Analysis GIF](https://cdn.dribbble.com/users/1355613/screenshots/4525416/ai_code.gif)
-
-* 📊 Finnhub real-time data
-* 🧠 GPT-based market summaries
-* 🛎️ Buy/Sell alerts
-* 🖼️ Chart previews
-
----
-
-### 🧠 AI-Powered Telegram Assistant (OpenAI + Flask + Replit)
-
-An intelligent, always-on chatbot that gives business help, startup advice, and coding answers — powered by ChatGPT & Flask API.
-
-![AI Assistant GIF](https://cdn.dribbble.com/users/200660/screenshots/2329942/media/5e57d0082750bb43918e28a3e5aef54d.gif)
-
-* 🔄 Hosted on Replit + Flask
-* 🧠 Integrated with OpenAI API
-* 🤖 Fast, always-on assistant
-* 🔐 Telegram bot secure token flow
-
----
-
-## 🛠️ Tech Stack
-
-**Languages**: Python, MQL5, JavaScript, HTML/CSS, Bash, SQL
-**Frameworks**: Flask, React.js, Tailwind CSS, FastAPI
-**Blockchain**: Solana, SPL, Web3.js, Phantom Wallet, Ethers.js
-**Trading APIs**: IBKR (Interactive Brokers), TradingView, Finnhub, Binance API
-**Tools**: Git, Replit, Postman, Ngrok, VSCode, ChatGPT API, Linux
-
----
-
-## 📫 Get in Touch
-
-📧 **Email**: [kamranalideveloper@gmail.com](mailto:kamranalideveloper@gmail.com)
-🔗 **LinkedIn**: [kamranaliofficial](https://www.linkedin.com/in/kamranaliofficial)
-💻 **GitHub**: [KamranAliOfficial](https://github.com/KamranAliOfficial)
-🌐 **Portfolio**: Coming Soon
-
-📍 Sukkur, Sindh, Pakistan
-
----
-
-💡 *“Code like a trader. Think like an engineer. Move like a blockchain.”*
+🔗 Connect with me:
+<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>
+<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>
+<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>
+<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>
