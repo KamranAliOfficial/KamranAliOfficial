@@ -1,7 +1,6 @@
 ### Hi there 👋, Welcome!
 
-<img src="https://raw.githubusercontent.com/KamranAliOfficial/KamranAliOfficial/main/assets/banner.png" alt="Kamran Ali Banner" />
-
+![logo](https://github.com/KamranAliOfficial/KamranAliOfficial/blob/main/Black%20and%20White%20Minimalist%20Photography%20LinkedIn%20Banner_20250802_174814_0000.png)
 
 Hello! 👋🏻 I'm Kamran Ali
 A Software Engineer & Blockchain Developer from Pakistan 🇵🇰
@@ -31,8 +30,6 @@ AI Automation | Blockchain & Web3 Development | Bot & Trading System Engineering
 - 😎 Pronouns: He/Him
 
 - ⚡ Fun fact: My bots don't sleep — they trade 24/7 😄
-
-### 🔗 Connect with me:
 
 ### 🔗 Connect with me:
 
