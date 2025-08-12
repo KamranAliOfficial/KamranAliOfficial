@@ -1,38 +1,47 @@
-### Hi there 👋, Welcome!
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a8296,100:091519&height=150&text=Hi,%20I'm%20Kamran%20Ali&fontSize=50&fontColor=61DAFB&fontAlignY=45&animation=twinkling&desc=Software%20Engineer%20%7C%20Blockchain%20Developer%20%7C%20AI%20Enthusiast&descSize=25&descAlignY=85&section=header" />
 
-![logo](https://github.com/KamranAliOfficial/KamranAliOfficial/blob/main/Black%20and%20White%20Minimalist%20Photography%20LinkedIn%20Banner_20250802_174814_0000.png)
+I'm **Kamran Ali**, a Software Engineer and Blockchain Developer from Sukkur, Sindh, Pakistan.  
+I specialize in building **AI-powered apps**, **blockchain wallets**, and **automated trading bots** for platforms like **IBKR, MT5, and TradingView**.  
+With expertise in **JavaScript, Python, Solidity**, and modern frameworks, I create scalable, high-performance applications for both web and mobile.
 
-Hello! 👋🏻 I'm Kamran Ali
-A Software Engineer & Blockchain Developer from Pakistan 🇵🇰
-I build AI bots, crypto wallets, and scalable web apps using Python, React, and Web3.
+I’m passionate about:
+- 🚀 AI-integrated financial tools & bots
+- 💹 Algorithmic & automated trading
+- 🔗 Blockchain solutions & DeFi applications
+- 📱 Modern, responsive UI/UX
 
-I’m deeply passionate about backend systems, AI bots, and blockchain development ⚙️💻.
-Currently exploring React.js, Web3, and automated trading systems 📈🤖.
+---
 
-Currently building AI-powered trading bots, working on blockchain wallet apps, and collaborating on Web3 + automation projects with global devs 🤝🌐.
+[![Mail Badge](https://img.shields.io/badge/-kamranalideveloper@gmail.com-dc2626?style=flat&labelColor=dc2626&logo=gmail&logoColor=white)](mailto:kamranalideveloper@gmail.com)
+[![LinkedIn Badge](https://img.shields.io/badge/-kamranaliofficial-0284c7?style=flat&labelColor=0284c7&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kamranaliofficial)
+[![GitHub Badge](https://img.shields.io/badge/-KamranAliOfficial-000000?style=flat&labelColor=000000&logo=github&logoColor=white)](https://github.com/KamranAliOfficial)
+[![Instagram Badge](https://img.shields.io/badge/-kamranaliofficial-c026d3?style=flat&labelColor=c026d3&logo=instagram&logoColor=white)](https://instagram.com/kamranaliofficial)
+[![](https://komarev.com/ghpvc/?username=KamranAliOfficial&color=blue&label=Profile%20Views)](https://github.com/KamranAliOfficial)
+[![](https://img.shields.io/github/followers/KamranAliOfficial?label=GitHub%20Followers)](https://github.com/KamranAliOfficial)
 
-I love building in public, joining dev communities, and competing in hackathons that create real-world impact 💡🚀.
+---
 
-**Skills:**  
-AI Automation | Blockchain & Web3 Development | Bot & Trading System Engineering
+### 💡 Skills
+![My Skills](https://skillicons.dev/icons?perline=12&i=html,css,bootstrap,tailwind,js,ts,react,next,nodejs,express,python,solidity,php,laravel,mysql,postgres,firebase,supabase,redux,jest,prisma,git,docker)
 
-**Tools:**   
-[<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/1200px-Visual_Studio_Code_1.18_icon.svg.png' alt='vscode' height='40'>](https://github.com/nikxherrera)  [<img src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png' alt='html' height='40'>](https://www.linkedin.com/in/nikxherrera/)  [<img src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png' alt='css' height='40'>](https://www.instagram.com/nikxherrera/)  [<img src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png' alt='reactjs' height='40'>](https://twitter.com/nikxherrera)  [<img src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png' alt='js' height='40'>](nikxherrera.github.io)  [<img src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png' alt='git' height='40'>](https://github.com/nikxherrera) [<img src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png' alt='mysql' height='40'>](https://www.instagram.com/nikxherrera/)  [<img src='https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png' alt='github' height='40'>](https://twitter.com/nikxherrera) 
+---
 
+### 🛠 Tools
+![Tools](https://skillicons.dev/icons?i=vscode,postman,notion,androidstudio,github,vercel,netlify,figma)
 
+---
 
-- 🔭 Currently working on AI-powered Telegram trading bots and blockchain wallet projects
+### 🌐 Blockchain & Trading
+![Blockchain](https://skillicons.dev/icons?i=solidity,web3,metamask,bitcoin,ethereum)
+![Trading](https://skillicons.dev/icons?i=python)
 
-- 🌱 Learning more about Solana, Phantom Wallet SDK, and smart contract automation
+---
 
-- 📫 Reach me at: kamranalideveloper@gmail.com
+### 📊 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=KamranAliOfficial&theme=react&show_icons=true&)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=KamranAliOfficial&theme=react&card_width=470)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KamranAliOfficial&card_width=495&langs_count=7&layout=compact&theme=react)
 
-- 😎 Pronouns: He/Him
+---
 
-- ⚡ Fun fact: My bots don't sleep — they trade 24/7 😄
-
-### 🔗 Connect with me:
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KamranAliOfficial)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kamranaliofficial/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/KamranAliDev)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4daec8,100:091519&height=100&section=footer" />
