@@ -12,14 +12,41 @@ I’m passionate about:
 
 ---
 
-[![Mail Badge](https://img.shields.io/badge/-kamranalideveloper@gmail.com-dc2626?style=flat&labelColor=dc2626&logo=gmail&logoColor=white)](mailto:kamranalideveloper@gmail.com)
-[![LinkedIn Badge](https://img.shields.io/badge/-kamranaliofficial-0284c7?style=flat&labelColor=0284c7&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kamranaliofficial)
-[![GitHub Badge](https://img.shields.io/badge/-KamranAliOfficial-000000?style=flat&labelColor=000000&logo=github&logoColor=white)](https://github.com/KamranAliOfficial)
-[![Instagram Badge](https://img.shields.io/badge/-kamranaliofficial-c026d3?style=flat&labelColor=c026d3&logo=instagram&logoColor=white)](https://instagram.com/kamranaliofficial)
-[![](https://komarev.com/ghpvc/?username=KamranAliOfficial&color=blue&label=Profile%20Views)](https://github.com/KamranAliOfficial)
-[![](https://img.shields.io/github/followers/KamranAliOfficial?label=GitHub%20Followers)](https://github.com/KamranAliOfficial)
+<!-- ================== Social Badges ================== -->
+<p align="center">
+  <!-- GitHub -->
+  <a href="https://github.com/KamranAliOfficial" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  &nbsp;
+  <!-- X (Twitter) -->
+  <a href="https://x.com/KamranAliOfficial" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/badge/-X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)"/>
+  </a>
+  &nbsp;
+  <!-- Facebook -->
+  <a href="https://facebook.com/KamranAliOfficial" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+  &nbsp;
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/kamranaliofficial" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  &nbsp;
+  <!-- Gmail -->
+  <a href="mailto:kamranalideveloper@gmail.com" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  &nbsp;
+  <!-- Website -->
+  <a href="https://kamranali.dev" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/badge/-kamranali.dev-0F172A?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
+  </a>
+</p>
 
 ---
+
 
 ### 💡 Skills
 ![My Skills](https://skillicons.dev/icons?perline=12&i=html,css,bootstrap,tailwind,js,ts,react,next,nodejs,express,python,solidity,php,laravel,mysql,postgres,firebase,supabase,redux,jest,prisma,git,docker)
