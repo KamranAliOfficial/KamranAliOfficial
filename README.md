@@ -25,7 +25,7 @@ I’m passionate about:
   </a>
   &nbsp;
   <!-- Facebook -->
-  <a href="https://facebook.com/KamranAliOfficial" target="_blank" rel="noopener">
+  <a href="https://www.facebook.com/kamran.chana.100" target="_blank" rel="noopener">
     <img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
   &nbsp;
