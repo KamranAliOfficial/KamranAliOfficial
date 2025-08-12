@@ -58,9 +58,27 @@ I’m passionate about:
 
 ---
 
-### 🌐 Blockchain & Trading
-![Blockchain](https://skillicons.dev/icons?i=solidity,web3,metamask,bitcoin,ethereum)
-![Trading](https://skillicons.dev/icons?i=python)
+## 🌐 Blockchain & Trading  
+
+<p align="left">
+  <!-- Blockchain -->
+  <img src="https://img.shields.io/badge/Blockchain-121D33?style=for-the-badge&logo=blockchaindotcom&logoColor=white" />
+  
+  <!-- Trading -->
+  <img src="https://img.shields.io/badge/Trading-FF4F00?style=for-the-badge&logo=tradingview&logoColor=white" />
+</p>
+
+### ⚙ Python Libraries Used for Blockchain & Trading
+
+<p align="left">
+  <img src="https://img.shields.io/badge/web3.py-333333?style=for-the-badge&logo=ethereum&logoColor=white" />
+  <img src="https://img.shields.io/badge/python_binance-005C84?style=for-the-badge&logo=binance&logoColor=white" />
+  <img src="https://img.shields.io/badge/ccxt-FF9900?style=for-the-badge&logo=bitcoin&logoColor=white" />
+  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" />
+</p>
+
 
 ---
 
