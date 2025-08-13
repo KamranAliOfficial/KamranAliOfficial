@@ -82,11 +82,36 @@ I’m passionate about:
 
 ---
 
-### 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=KamranAliOfficial&theme=react&show_icons=true&)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=KamranAliOfficial&theme=react&card_width=470)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KamranAliOfficial&card_width=495&langs_count=7&layout=compact&theme=react)
+## 🚀 GitHub Stats & Activity
 
----
+<p align="center">
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=KamranAliOfficial&theme=react&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" height="200" />
+  
+  <!-- Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=KamranAliOfficial&theme=react&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="200" />
+</p>
+
+<!-- Top Languages -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KamranAliOfficial&layout=compact&theme=react&hide_border=true&langs_count=8&card_width=500&custom_title=🚀%20Top%20Languages&langs=Python,Java,JavaScript" height="200" />
+</p>
+
+<!-- Activity Graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KamranAliOfficial&theme=react-dark&bg_color=0D1117&hide_border=true&line=61DAFB&point=F8D847&area=true&area_color=238636" height="300" />
+</p>
+
+<!-- Blockchain Skill Badges -->
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/Solidity-%23000000.svg?style=for-the-badge&logo=solidity&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Ethers.js-0D1117?style=for-the-badge&logo=ethers&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Hardhat-0D1117?style=for-the-badge&logo=hardhat&logoColor=F7DF1E" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Foundry-0D1117?style=for-the-badge&logo=foundry&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Web3.js-0D1117?style=for-the-badge&logo=web3.js&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Rust-0D1117?style=for-the-badge&logo=rust&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=white" /></a>
+</p>
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4daec8,100:091519&height=100&section=footer" />
