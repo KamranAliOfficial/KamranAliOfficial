@@ -1,4 +1,7 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a8296,100:091519&height=150&text=Hi,%20I'm%20Kamran%20Ali&fontSize=50&fontColor=61DAFB&fontAlignY=45&animation=twinkling&desc=Software%20Engineer%20%7C%20Blockchain%20Developer%20%7C%20AI%20Enthusiast&descSize=25&descAlignY=85&section=header" />
+<!-- Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Kamran%20Ali&fontSize=50&fontColor=ffffff&animation=fadeIn&desc=Software%20Engineer%20%7C%20Blockchain%20Developer%20%7C%20AI%20Enthusiast&descSize=22&descAlignY=65" width="100%"/>
+
+
 
 I'm **Kamran Ali**, a Software Engineer and Blockchain Developer from Sukkur, Sindh, Pakistan.  
 I specialize in building **AI-powered apps**, **blockchain wallets**, and **automated trading bots** for platforms like **IBKR, MT5, and TradingView**.  
@@ -114,4 +117,6 @@ I’m passionate about:
 </p>
 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4daec8,100:091519&height=100&section=footer" />
+<!-- FOOTER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer" width="100%"/>
+
