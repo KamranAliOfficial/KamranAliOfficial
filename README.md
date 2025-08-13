@@ -1,5 +1,6 @@
-<!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Kamran%20Ali&fontSize=50&fontColor=ffffff&animation=fadeIn&desc=Software%20Engineer%20%7C%20Blockchain%20Developer%20%7C%20AI%20Enthusiast&descSize=22&descAlignY=65" width="100%"/>
+<!-- Professional Yellow Header Banner with Text Animation -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a1a1a,100:000000&height=200&section=header&text=Kamran%20Ali&fontSize=55&fontColor=FFD700&fontAlignY=45&animation=twinkling&desc=Software%20Engineer%20%7C%20Blockchain%20Developer%20%7C%20AI%20Enthusiast&descSize=22&descAlignY=65" width="100%"/>
+
 
 
 
@@ -117,6 +118,5 @@ I’m passionate about:
 </p>
 
 
-<!-- FOOTER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer" width="100%"/>
-
+<!-- Professional Yellow Footer Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a1a1a,100:000000&height=150&section=footer&text=Thanks%20for%20Visiting!&fontSize=30&fontColor=FFD700&fontAlignY=35&animation=twinkling" width="100%"/>
